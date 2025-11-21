@@ -1,5 +1,5 @@
 # my-fictionalized-life-story
- This project was designed to serve as a comprehensive narrative of my journey as a university student, showcasing my background, academic achievements, technical skills, and future aspirations.
+ This project was designed to serve as a comprehensive fictionalized narrative of my journey as a university student, showcasing my background, academic achievements, technical skills, and future aspirations.
  # Installation
  1. Clone the repository
  2. Open the directory
